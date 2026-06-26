@@ -44,6 +44,6 @@ Durch die Kombination aus stromsparender Hardware (gerade in Bearbeitung), umfä
 
 ---
 
-## 3. Zusammenfassung für den Product Pitch
+## 3. Zusammenfassung für einen Product Pitch
 
-> **„Wir verwandeln unvorhersehbare Pflanzenpflege in ein fehlerfreies, datenbasiertes Erlebnis. Durch die Fusion von extrem stromsparenden Sensor-Sticks mit einer intelligenten botanischen Cloud-Datenbank nehmen wir Nutzern die Angst vor dem Pflanzentod, schützen ihre finanziellen Investitionen in grüne Wohnräume und sorgen dafür, dass Indoor-Gärten unter optimalen Bedingungen maximal gedeihen.“**
+> **„Wir verwandeln unvorhersehbare Pflanzenpflege in ein fehlerfreies, datenbasiertes Erlebnis. Durch die Fusion von extrem stromsparenden Sensor-Sticks mit einer intelligenten botanischen Datenbank & Cloud-Datenbank nehmen wir Nutzern die Angst vor dem Pflanzentod, schützen ihre finanziellen Investitionen in grüne Wohnräume und sorgen dafür, dass Indoor-Gärten unter optimalen Bedingungen maximal gedeihen.“**
